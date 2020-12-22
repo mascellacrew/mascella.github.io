@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	box-sizing: border-box;
+	
+	top: 0%;
+}
+
+
+body {
+	max-width: 75%;
+	max-resolution: auto;
+	margin: auto;
+	text-align: center;
+	color: #F8F8F8;
+	 background-color: #111111;
+  
+}
+
+.h1 {}
+
+.div1{
+	font-family: "DK Lemon Yellow Sun";
+	font-size: 70px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	top: 25%;
+	width: 100%;
+	height: 100%;
+	margin-top: 95px;
+}
+
+.path1{
+	margin-right: -30px;
+	margin-bottom: 18px;
+}
+
+.path2{}
+
+.div2{
+	font-family: "DK Lemon Yellow Sun";
+	margin-top: 850px;
+	font-size: 76px;
+
+}
+
+.h2 {
+	font-size: 76px;
+	
+}
+
+.button {
+	font-family: "DK Lemon Yellow Sun";
+	background-color: #F775FF;
+	border: none;
+	color: #212121;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 50px;
+	margin: 4px 2px;
+	border-radius: 16px;
+}
+
+.desc {
+	font-family: "DK Lemon Yellow Sun";
+	font-size: 37px;
+}
+
+.divfoot{
+	align-content: center;
+	margin-top: 250px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 14px
+}
+
+.crislink {
+	color: #F775FF;
+	
+}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
