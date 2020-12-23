@@ -1,6 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
+@font-face{
+	font-family: "DK Lemon Yellow Sun";
+	src: url(DK Lemon Yellow Sun.otf);
+}
+
 * {
 	box-sizing: border-box;
 	
