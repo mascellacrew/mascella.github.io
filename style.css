@@ -3,7 +3,7 @@
 
 @font-face{
 	font-family: "DK Lemon Yellow Sun";
-	src: url(DK Lemon Yellow Sun.otf);
+	src: url('DK Lemon Yellow Sun.otf');
 }
 
 * {
